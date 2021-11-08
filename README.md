@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🙋‍♂️ thelight0804   
+# thelight0804 (≧∇≦)
  
 ### 언어
 
