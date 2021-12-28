@@ -1,6 +1,8 @@
 <div align="center">
 
 ## Hi there!✋ I'm Thelight0804
+
+ I hope to develop make a convenient life
  
 <div align="left">
  
@@ -24,12 +26,12 @@
 <details> 
    <summary><b>⭐ I like ...</b></summary>
  
-- cooking 🍳
-- eating new food 🍱
-- travel 🛨
-- game <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
-- watching anime and movie 🎥
-- video editing <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+- <b>cooking 🍳</b>
+- <b>eating new food 🍱</b>
+- <b>travel 🛨</b>
+- <b>game</b> <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
+- <b>watching anime and movie 🎥</b>
+- <b>video editing</b> <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zimc8o9ufqxih3qhs2tva4rhx&cover_image=false&theme=default&bar_color=f4af79&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zimc8o9ufqxih3qhs2tva4rhx&redirect=true)
