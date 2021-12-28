@@ -12,13 +12,13 @@
  
  ### 👨‍💻 I studying...
 
-><a href="https://simpleicons.org" target="C"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="https://simpleicons.org" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a href="https://simpleicons.org" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://simpleicons.org" target="Java"><img src="https://img.shields.io/badge/JLPT-N2-ff4545?style=flat-square"/></a>
+><a href="" target="C"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<a href="" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="Java"><img src="https://img.shields.io/badge/JLPT-N2-ff4545?style=flat-square"/></a>
  
->><a href="https://simpleicons.org" target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-<a href="https://simpleicons.org" target="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+>><a href="" target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+<a href="" target="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
 ---- | ----
@@ -29,10 +29,10 @@
 - <b>cooking 🍳</b>
 - <b>eating new food 🍱</b>
 - <b>travel 🛨</b>
-- <b>game</b> <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
+- <b>game</b> <a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 - <b>watching anime and movie 🎥</b>
-- <b>video editing</b> <a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-<a href="https://simpleicons.org" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+- <b>video editing</b> <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zimc8o9ufqxih3qhs2tva4rhx&cover_image=false&theme=default&bar_color=f4af79&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zimc8o9ufqxih3qhs2tva4rhx&redirect=true)
 
