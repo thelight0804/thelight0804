@@ -8,6 +8,7 @@
  
 ### 📪 I have...
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:thelight0804@gmail.com)
+ <a href="https://thelight0804.notion.site/Home-f9bfe5d06c0f49f18779072b8f2370eb" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
  
  ### 👨‍💻 I studying...
