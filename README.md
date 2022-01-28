@@ -19,6 +19,7 @@
 <a href="https://www.jlpt.jp/" target="JLPT"><img src="https://img.shields.io/badge/JLPT-N1-ff4545?style=flat-square"/></a>
  
 >><a href="" target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+ <a href="" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
