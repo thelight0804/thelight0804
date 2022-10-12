@@ -19,7 +19,8 @@
 <a href="https://thelight0804.notion.site/Python-57e914b69ad549aeb4bff3315a811690" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://thelight0804.notion.site/Japanese-fd2a83b08d0f4c1db9d4ccbc516c7c32" target="JLPT"><img src="https://img.shields.io/badge/JLPT-N1-ff4545?style=flat-square"/></a>
  
->><a href="https://thelight0804.notion.site/Android-Studio-dee5eb30d6034a77a3984e1a997ec67c" target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+>><a href="https://www.notion.so/thelight0804/React-49741314acdd49d3910708827002faa4" target="React"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://thelight0804.notion.site/Android-Studio-dee5eb30d6034a77a3984e1a997ec67c" target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 <a href="" target="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
