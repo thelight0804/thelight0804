@@ -7,7 +7,7 @@
 <div align="left">
  
 ### 📪 I have...
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:thelight0804@gmail.com)
+>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:thelight0804@gmail.com)
  <a href="https://thelight0804.notion.site/SangHyeon-Park-336e61be5dc24b5c802481edc09a2ef4" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
  
