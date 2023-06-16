@@ -28,19 +28,7 @@
  
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thelight0804)](https://solved.ac/thelight0804) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelight0804&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
----- | ----
- 
-<br>
- 
-<details> 
-   <summary><b>⭐ I like ...</b></summary>
- 
-- <b>cooking 🍳</b>
-- <b>eating new food 🍱</b>
-- <b>travel 🛨</b>
-- <b>watching anime and movie 🎥</b>
-- <b>video editing</b> <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thelight0804" alt="LeetCode Stats" width="350">
+<img src="https://leetcode.card.workers.dev/thelight0804?theme=nord&font=baloo&extension=null" alt="LeetCode Stats" width="420">
 
- </div>
+</div>
