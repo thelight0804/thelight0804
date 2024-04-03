@@ -17,7 +17,7 @@
  <a href="https://www.notion.so/thelight0804/React-452477b7489f48deb780a0685fd1e2a9?pvs=4" target="React">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  </a>
- <a href="https://www.notion.so/thelight0804/React-452477b7489f48deb780a0685fd1e2a9?pvs=4" target="React Native">
+ <a href="https://www.notion.so/thelight0804/React-Native-09feea5c2a7c45a9b901a4094963b17a?pvs=4" target="React Native">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  </a>
  <a href="https://www.notion.so/thelight0804/JavaScript-2c59762452064a35af7696db588fd094?pvs=4" target="JavaScript">
